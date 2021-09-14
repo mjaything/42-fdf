@@ -8,7 +8,7 @@ _Note_: The miniLibX library used in this repository is made for MacOS. In order
 ## How to run the program
 1. [Clone](https://help.github.com/articles/cloning-a-repository/) the repository onto your local computer.
 ```
-git clone https://github.com/mjaything/graphic-wireframe.git
+git clone https://github.com/min-kim42/graphic-wireframe.git
 ```
 
 2. Navigate into the cloned repository.
@@ -21,7 +21,7 @@ cd graphic-wireframe
 make
 ```
 
-4. Run the executable with a map file. Sample maps are located in the [maps](https://github.com/mjaything/graphic-wireframe/tree/master/maps) directory.
+4. Run the executable with a map file. Sample maps are located in the [maps](https://github.com/min-kim42/graphic-wireframe/tree/master/maps) directory.
 ```
 ./fdf MAP_FILE
 ```
